@@ -1,0 +1,6 @@
+{
+    "name": "angular-scenario-window-dialog-commands",
+    "main": [
+        "window-dialog-commands.js"
+    ]
+}
